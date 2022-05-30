@@ -22,7 +22,7 @@ HASH es una plataforma de nucleo abierto para crear y explorar gemelos digitales
 
 ![Logo # Hash](.gitbook/assets/image-removebg-preview.png)
 
-### [Requerimientos de Hardware y Software](guides/requerimientos-de-hardware-y-software.md)
+### [Requerimientos de Hardware y Software](guias/requerimientos-de-hardware-y-software.md)
 
 **Se necesita de un navegador!** Para el correcto funcionamiento es necesario usar  cualquiera de los siguientes navegadores (Browsers):
 
@@ -36,20 +36,20 @@ HASH es una plataforma de nucleo abierto para crear y explorar gemelos digitales
 
 Siga nuestras guías para comenzar:
 
-{% content-ref url="guides/requerimientos-de-hardware-y-software.md" %}
-[requerimientos-de-hardware-y-software.md](guides/requerimientos-de-hardware-y-software.md)
+{% content-ref url="guias/requerimientos-de-hardware-y-software.md" %}
+[requerimientos-de-hardware-y-software.md](guias/requerimientos-de-hardware-y-software.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/proceso-de-configuracion-e-instalacion.md" %}
-[proceso-de-configuracion-e-instalacion.md](guides/proceso-de-configuracion-e-instalacion.md)
+{% content-ref url="guias/proceso-de-configuracion-e-instalacion.md" %}
+[proceso-de-configuracion-e-instalacion.md](guias/proceso-de-configuracion-e-instalacion.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/tutorial-del-uso-de-la-herramienta.md" %}
-[tutorial-del-uso-de-la-herramienta.md](guides/tutorial-del-uso-de-la-herramienta.md)
+{% content-ref url="guias/tutorial-del-uso-de-la-herramienta.md" %}
+[tutorial-del-uso-de-la-herramienta.md](guias/tutorial-del-uso-de-la-herramienta.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/planteamiento-y-descipcion-del-problema.md" %}
-[planteamiento-y-descipcion-del-problema.md](guides/planteamiento-y-descipcion-del-problema.md)
+{% content-ref url="guias/planteamiento-y-descipcion-del-problema.md" %}
+[planteamiento-y-descipcion-del-problema.md](guias/planteamiento-y-descipcion-del-problema.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

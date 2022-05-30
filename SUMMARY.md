@@ -2,13 +2,13 @@
 
 * [Proyecto Integrador](README.md)
 
-## Guides
+## Guias
 
-* [Requerimientos de hardware y software](guides/requerimientos-de-hardware-y-software.md)
-* [Proceso de configuración e instalación](guides/proceso-de-configuracion-e-instalacion.md)
-* [Tutorial del uso de la herramienta](guides/tutorial-del-uso-de-la-herramienta.md)
-* [Planteamiento y descipcion del problema](guides/planteamiento-y-descipcion-del-problema.md)
-* [Conclusiones y recomendaciones](guides/conclusiones-y-recomendaciones.md)
+* [Requerimientos de hardware y software](guias/requerimientos-de-hardware-y-software.md)
+* [Proceso de configuración e instalación](guias/proceso-de-configuracion-e-instalacion.md)
+* [Tutorial del uso de la herramienta](guias/tutorial-del-uso-de-la-herramienta.md)
+* [Planteamiento y descipcion del problema](guias/planteamiento-y-descipcion-del-problema.md)
+* [Conclusiones y recomendaciones](guias/conclusiones-y-recomendaciones.md)
 
 ## Fundamentals
 
