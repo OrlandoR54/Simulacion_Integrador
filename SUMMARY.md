@@ -1,19 +1,19 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [Proyecto Integrador](README.md)
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Requerimientos de hardware y software](guides/requerimientos-de-hardware-y-software.md)
+* [Proceso de configuración e instalación](guides/proceso-de-configuracion-e-instalacion.md)
+* [Tutorial del uso de la herramienta](guides/tutorial-del-uso-de-la-herramienta.md)
+* [Planteamiento y descipcion del problema](guides/planteamiento-y-descipcion-del-problema.md)
+* [Conclusiones y recomendaciones](guides/conclusiones-y-recomendaciones.md)
 
 ## Fundamentals
 
 * [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Integrantes](fundamentals/integrantes.md)
 
 ## Use Cases
 
@@ -23,7 +23,3 @@
   * [GitHub Integration](use-cases/for-engineers/github-integration.md)
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
