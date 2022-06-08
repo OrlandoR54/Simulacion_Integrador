@@ -19,10 +19,12 @@ Una vez terminado el proceso de instalación seleccionamos iniciar FlexSim y dam
 
 ![](<../.gitbook/assets/image (1).png>)
 
-Una vez iniciado el software seleccionar la configuracion inicial dependiendo de el tipo de trabajo que se vaya a hacer. En este caso selecionamos la Clásica (Classic).
+Una vez iniciado el software seleccionar la configuracion inicial dependiendo de el tipo de trabajo que se vaya a hacer (Classic o Healthcare). En este caso seleccionamos la Clásica (Classic).
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 {% hint style="success" %}
 **Listo!** Todo configurado para usar **FlexSim**
 {% endhint %}
+
+![](<../.gitbook/assets/image (3).png>)
