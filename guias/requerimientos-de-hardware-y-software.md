@@ -58,3 +58,5 @@ Después de la instalación, los archivos de programa de FlexSim pueden usar has
 ### Software adicional
 
 Es necesario instalar el último [.NET Framework](https://dotnet.microsoft.com/en-us/download)
+
+> [Requerimientos de sistema](https://docs.flexsim.com/en/22.1/Reference/SystemRequirements/SystemRequirements.html#minimum)
