@@ -1,5 +1,5 @@
-# Advanced permissions
+# Tutorial del uso de la herramienta
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+{% embed url="https://estliveupsedu-my.sharepoint.com/:v:/g/personal/oreal_est_ups_edu_ec/EYLTqiBMhulKpkOpxLZk3jQBQ3OJgFoVbvyecLQDoyNErA?e=Id0lFW" %}
+
+{% file src="../.gitbook/assets/FlexSim.mp4" %}
