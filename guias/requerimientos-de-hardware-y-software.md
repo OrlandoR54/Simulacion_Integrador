@@ -16,7 +16,7 @@ Un sistema que cumpla con estos requisitos mínimos le permitirá:
 
 **Compatible con Windows!** FlexSim es compatible con las siguientes ediciones de 64 bits de Windows:
 
-[<img src="../.gitbook/assets/image.png" alt="" data-size="line">](https://docs.microsoft.com/en-us/windows/release-health/windows11-release-information)                                      [<img src="../.gitbook/assets/Windows_10_Logo.svg.png" alt="" data-size="line">](https://docs.microsoft.com/en-us/windows/release-health/release-information)                                       [<img src="../.gitbook/assets/image (4).png" alt="" data-size="line">](https://docs.microsoft.com/en-us/lifecycle/faq/windows#windows-81)
+[<img src="../.gitbook/assets/image.png" alt="" data-size="line">](https://docs.microsoft.com/en-us/windows/release-health/windows11-release-information)                                      [<img src="../.gitbook/assets/Windows_10_Logo.svg.png" alt="" data-size="line">](https://docs.microsoft.com/en-us/windows/release-health/release-information)                                       [<img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line">](https://docs.microsoft.com/en-us/lifecycle/faq/windows#windows-81)
 
 ### CPU
 
