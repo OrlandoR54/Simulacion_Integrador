@@ -55,15 +55,3 @@ Siga nuestras guías para comenzar:
 {% content-ref url="guias/planteamiento-y-descipcion-del-problema.md" %}
 [planteamiento-y-descipcion-del-problema.md](guias/planteamiento-y-descipcion-del-problema.md)
 {% endcontent-ref %}
-
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
