@@ -1,33 +1,60 @@
 # Requerimientos de hardware y software
 
-{% hint style="warning" %}
-**Bueno saber:** HASH se basa en tecnologías web modernas para ejecutar un motor de simulación completo en el navegador.&#x20;
+{% hint style="success" %}
+**Bueno saber:** La mayoría de las computadoras de escritorio y portátiles producidas en los últimos años cumplen con los requisitos mínimos de FlexSim.
 {% endhint %}
 
-## Herramientas
+Un sistema que cumpla con estos requisitos mínimos le permitirá:
 
-**Se necesita de un navegador!** Para el correcto funcionamiento es necesario usar  cualquiera de los siguientes navegadores (Browsers).
+* evaluar FlexSim&#x20;
+* Trabajar a través de los tutoriales&#x20;
+* Construir y ejecutar modelos de tamaño pequeño a mediano
 
-[![Chrome](https://hash.ai/assets/google-chrome.svg)<mark style="color:yellow;">CHROME 66+</mark>](https://www.google.com/chrome/)<mark style="color:yellow;"></mark>[ ](https://www.microsoft.com/en-us/edge)                                        <mark style="color:purple;"></mark>                                        [![Edge](https://hash.ai/assets/edge.svg)<mark style="color:purple;">EDGE 79+</mark>](https://www.microsoft.com/en-us/edge)<mark style="color:purple;"></mark>[ <mark style="color:purple;"></mark> ](https://www.mozilla.org/en-GB/firefox/new/)                                          <mark style="color:purple;"></mark>                                          [ <mark style="color:orange;"></mark> ![Firefox](https://hash.ai/assets/firefox.svg)<mark style="color:orange;">FIREFOX 67+</mark>](https://www.mozilla.org/en-GB/firefox/new/)<mark style="color:orange;"></mark>
+## Requerimientos minimos
 
-\#HASH está construyendo una solución integral para la toma de decisiones basada en simulación.
+### Sistema operativo
 
-[![](https://hash.ai/assets/H-CORE.svg)](https://hash.ai/platform/core) <mark style="color:blue;">**hCore**</mark>
+**Compatible con Windows!** FlexSim es compatible con las siguientes ediciones de 64 bits de Windows:
 
-Aplicación integrada en el navegador para crear, visualizar y explorar rápidamente simulaciones de sistemas complejos.
+[<img src="../.gitbook/assets/image.png" alt="" data-size="line">](https://docs.microsoft.com/en-us/windows/release-health/windows11-release-information)                                      [<img src="../.gitbook/assets/Windows_10_Logo.svg.png" alt="" data-size="line">](https://docs.microsoft.com/en-us/windows/release-health/release-information)                                       [<img src="../.gitbook/assets/image (4).png" alt="" data-size="line">](https://docs.microsoft.com/en-us/lifecycle/faq/windows#windows-81)
 
-[![](https://hash.ai/assets/rocket.svg)](https://hash.ai/platform/engine) <mark style="color:blue;">**hEngine**</mark>
+### CPU
 
-Las simulaciones se ejecutan en hEngine, que desbloquea escalabilidad y rendimiento masivos. Próximamente de código abierto.
+**Un moderno procesador Intel o AMD de 64 bits!** Para cumplir con los requisitos mínimos de rendimiento, compatibilidad y soporte del proveedor (como actualizaciones de controladores), se recomienda una CPU fabricado en los últimos 5 años, como:
 
-[![](https://hash.ai/assets/cloud.svg) ](https://hash.ai/platform/cloud)<mark style="color:blue;">**hCloud**</mark>
+* Procesador Intel Core de séptima generación (Kaby Lake, Skylake-X, Apollo Lake) o superior
+* Procesador de la serie AMD Zen o superior
 
-Optimice automáticamente y distribuya de manera eficiente las simulaciones sin esfuerzo, configuración o código adicional.
+{% hint style="warning" %}
+&#x20;Los procesadores ARM no son compatibles.
+{% endhint %}
 
-[![](https://hash.ai/assets/package-variant.svg)](https://hash.ai/platform/index)<mark style="color:blue;">**hIndex**</mark>
+### RAM
 
-Una comunidad para obtener, compartir, bifurcar y construir simulaciones y sus componentes.
+* 8 Gb de RAM o más
 
-## Creating a project
+### Gráficos
 
-Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
+**Una GPU compatible con OpenGL 3.1 o superior!** Para cumplir con los requisitos mínimos de rendimiento, compatibilidad y soporte del proveedor (como actualizaciones de controladores), se recomienda una GPU producida en los últimos 5 años, como:
+
+* Nvidia GeForce [900 series (desktop)](https://en.wikipedia.org/wiki/List\_of\_Nvidia\_graphics\_processing\_units#GeForce\_900\_series) or [900M series (mobile)](https://en.wikipedia.org/wiki/List\_of\_Nvidia\_graphics\_processing\_units#GeForce\_900M\_\(9xxM\)\_series) o superior
+* AMD Radeon RX [400 series](https://en.wikipedia.org/wiki/List\_of\_AMD\_graphics\_processing\_units#Radeon\_RX\_400\_series) or [M400 series (mobile)](https://en.wikipedia.org/wiki/List\_of\_AMD\_graphics\_processing\_units#Radeon\_RX\_M400\_series) o superior
+* Intel [Gen 9 Graphics](https://en.wikipedia.org/wiki/List\_of\_Intel\_graphics\_processing\_units#Gen9) o superior
+
+{% hint style="warning" %}
+Es posible que deba actualizar su controlador de gráficos para que FlexSim funcione correctamente.
+
+FlexSim no está diseñado para usarse con virtualización de GPU.
+{% endhint %}
+
+### Espacio de disco
+
+**Se recomienda un espacio libre de 3 GB!** El instalador de FlexSim puede tener un tamaño de hasta 1,2 GB, según la versión. Después de una instalación exitosa, es posible que se elimine el archivo del instalador.&#x20;
+
+Después de la instalación, los archivos de programa de FlexSim pueden usar hasta 1,2 GB de espacio en disco, según la versión. Sus archivos de modelos, diseños CAD, imágenes, formas 3D personalizadas, datos para importar, informes exportados y otros activos relacionados con la simulación que proporcione ocuparán espacio en el disco además del espacio de instalación del software.
+
+## Requerimientos de software
+
+### Software adicional
+
+Es necesario instalar el último [.NET Framework](https://dotnet.microsoft.com/en-us/download)

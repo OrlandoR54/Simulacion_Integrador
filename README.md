@@ -16,20 +16,26 @@
 >
 > — [# Hash](https://hash.ai/glossary/simulation)
 
-## HASH
+## FLEXSIM
 
-HASH es una plataforma de nucleo abierto para crear y explorar gemelos digitales de nuestro complejo mundo real. Esto permite un aprendizaje y experimentación seguros y de bajo costo en entornos virtuales realistas.
+****[**FlexSim Software Products**](https://www.flexsim.com/es/empresa/) **** desarrolla el software de modelado de simulación de última generación para analizar, visualizar y mejorar los procesos del mundo real.
 
-![Logo # Hash](.gitbook/assets/image-removebg-preview.png)
+**FlexSim** se ha convertido en el estándar de software de simulación de eventos discretos. Con una amplia gama de herramientas que cubren la fabricación, la manipulación de materiales, la asistencia sanitaria, la logística y la cadena de suministro
+
+![Logo FlexSim](.gitbook/assets/FlexSim\_ProblemSolved\_R-1000px.webp)
+
+Es un software de simulación 3D que modela, simula, predice y visualiza sistemas comerciales en una variedad de industrias: fabricación, manejo de materiales, atención médica, almacenamiento, minería, logística y más. Es potente y fácil de usar.
 
 ### [Requerimientos de Hardware y Software](guias/requerimientos-de-hardware-y-software.md)
 
-**Se necesita de un navegador!** Para el correcto funcionamiento es necesario usar  cualquiera de los siguientes navegadores (Browsers):
+**Compatible con Windows!** FlexSim es compatible con las siguientes ediciones de 64 bits de Windows:
 
-[![Chrome](https://hash.ai/assets/google-chrome.svg)<mark style="color:yellow;">CHROME 66+</mark>](https://www.google.com/chrome/)<mark style="color:yellow;"></mark>[ ![Edge](https://hash.ai/assets/edge.svg)<mark style="color:purple;">EDGE 79+</mark>](https://www.microsoft.com/en-us/edge)<mark style="color:purple;"></mark>[ <mark style="color:purple;"></mark> ![Firefox](https://hash.ai/assets/firefox.svg)<mark style="color:orange;">FIREFOX 67+</mark>](https://www.mozilla.org/en-GB/firefox/new/)<mark style="color:orange;"></mark>
+* Windows 11
+* Windows 10
+* Windows 8.1
 
 {% hint style="warning" %}
-**Bueno saber:** HASH se basa en tecnologías web modernas para ejecutar un motor de simulación completo en el navegador.&#x20;
+**Importante:** FlexSim no está diseñado para su uso en entornos de SO virtuales
 {% endhint %}
 
 ### Guias: Saltos directos
@@ -51,10 +57,6 @@ Siga nuestras guías para comenzar:
 {% content-ref url="guias/planteamiento-y-descipcion-del-problema.md" %}
 [planteamiento-y-descipcion-del-problema.md](guias/planteamiento-y-descipcion-del-problema.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
 
 ### Fundamentals: Dive a little deeper
 

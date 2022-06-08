@@ -8,7 +8,7 @@ Hash necesita de una cuenta para comenzar a trabajar dentro de su plataform.
 
 1. Registrarse en [**# HASH**](https://hash.ai/signin?redirect=/), ingresar correo y contraseña.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 2\. Se recibira un mail para activar la cuenta, aqui configuraremos una contraseña.
 
