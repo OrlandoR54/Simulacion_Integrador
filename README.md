@@ -1,7 +1,5 @@
 # Proyecto Integrador
 
-
-
 {% hint style="info" %}
 **SImulación:** "La simulación es el proceso de diseñar un modelo de un sistema real y llevar a término experiencias con él, con la finalidad de comprender el comportamiento del sistema o evaluar nuevas estrategias -dentro de los límites impuestos por un cierto criterio o un conjunto de ellos - para el funcionamiento del sistema." - R. E. Shannon
 {% endhint %}
@@ -18,7 +16,7 @@
 
 ## FLEXSIM
 
-****[**FlexSim Software Products**](https://www.flexsim.com/es/empresa/) **** desarrolla el software de modelado de simulación de última generación para analizar, visualizar y mejorar los procesos del mundo real.
+\*\*\*\*[**FlexSim Software Products**](https://www.flexsim.com/es/empresa/) \*\*\*\* desarrolla el software de modelado de simulación de última generación para analizar, visualizar y mejorar los procesos del mundo real.
 
 **FlexSim** se ha convertido en el estándar de software de simulación de eventos discretos. Con una amplia gama de herramientas que cubren la fabricación, la manipulación de materiales, la asistencia sanitaria, la logística y la cadena de suministro
 
@@ -62,10 +60,10 @@ Siga nuestras guías para comenzar:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/integrantes.md" %}
-[integrantes.md](fundamentals/integrantes.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
