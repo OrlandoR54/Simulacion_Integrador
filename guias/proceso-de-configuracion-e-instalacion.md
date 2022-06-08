@@ -5,13 +5,11 @@
 * NO es necesario realizar una configuración previa para instalar.
 {% endhint %}
 
-1. &#x20;<img src="../.gitbook/assets/image (5).png" alt="" data-size="original"> Ejecutar el instalador de FlexSim
+1. <img src="../.gitbook/assets/image (5).png" alt="" data-size="original"> Ejecutar el instalador de FlexSim
 
 2\. Aceptamos los terminos de licencia y damos en Instalar
 
-<img src="../.gitbook/assets/image (4).png" alt="" data-size="original">&#x20;
-
-
+![](<../.gitbook/assets/image (7).png>)
 
 3\. Se debe esperar alrededor de 5 min a que termine su instalación.![](<../.gitbook/assets/image (2).png>)
 
